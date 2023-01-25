@@ -1,2 +1,3 @@
 # 2.1 Systems Theory
-Hello
+I chose to consider the ethical boundaries crossed in the case where a retailer sells your personal information to others for profit. The most obvious ethical quandary is how bad spreading personal information is, since many customers entrust their private information to retailers under the assumption that their information will remain relatively private. Another ethical quandary to consider is the invasion of privacy and to what extent a privacy can/should be "invaded." A good indicator of the intentions of a system is how much they can profit off of personal information, so that itself has to be considered as an ethical quandary. The final ethical dilemma I considered is how customers are treated when retailers begin to prioritize themselves over customers.
+
